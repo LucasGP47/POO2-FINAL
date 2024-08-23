@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"m":"SiteOnline","l":"assists"},{"m":"SiteOnline","l":"facade"},{"m":"SiteOnline","l":"main"},{"m":"SiteOnline","l":"model"},{"m":"SiteOnline","l":"service"},{"m":"SiteOnline","l":"util"}];updateSearchResults();
